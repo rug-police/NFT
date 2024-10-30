@@ -1,0 +1,23 @@
+{
+    "description": "RUGP Generals NFT is an NFT that gives you a say in the project's development. Owners of this NFT get a bigger share of the profits and access to exclusive opportunities within RUGP.",
+    "name": "POLICE GENERALS",
+    "attributes": [
+        {
+            "trait_type": "Star material",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Rank",
+            "value": "Generals"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Red"
+        },
+        {
+            "trait_type": "VIP chat",
+            "value": "Yes"
+        }
+    ],
+    "image": "https://raw.github.com/RUGPOLICE/NFT/main/Gen_nft-ezgif.com-video-to-gif-converter.gif"
+}

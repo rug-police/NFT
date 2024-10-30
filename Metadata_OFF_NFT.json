@@ -1,0 +1,23 @@
+{
+    "description": "RUGP Officers NFT gives you free access to all RUGP products. It offers a good return on investment and looks great in your collection.",
+    "name": "POLICE OFFICERS",
+    "attributes": [
+        {
+            "trait_type": "Star material",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Rank",
+            "value": "Officers"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Green"
+        },
+        {
+            "trait_type": "VIP chat",
+            "value": "No"
+        }
+    ],
+    "image": "https://raw.github.com/RUGPOLICE/NFT/main/Officer_nft-ezgif.com-video-to-gif-converter.gif"
+}
