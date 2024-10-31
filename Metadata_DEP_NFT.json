@@ -1,23 +1,23 @@
 {
-    "description": "The RUGP Developer NFT shows that the wallet owner is involved in the development of RUGP products. It proudly adds to your wallet and gives you the right to earn income from the project's monetization.",
-    "name": "POLICE DEPARTMENT",
+    "description": "RUGP Officers NFT gives you free access to all RUGP products. It offers a good return on investment and looks great in your collection.",
+    "name": "POLICE OFFICERS",
     "attributes": [
         {
             "trait_type": "Star material",
-            "value": "Platinum"
+            "value": "Silver"
         },
         {
             "trait_type": "Rank",
-            "value": "Developer"
+            "value": "Officers"
         },
         {
             "trait_type": "Color",
-            "value": "Blue"
+            "value": "Green"
         },
         {
             "trait_type": "VIP chat",
-            "value": "Yes"
+            "value": "No"
         }
     ],
-    "image": "https://raw.github.com/rug-police/NFT/main/Dev_nft_RUGP.gif"
+    "image": "https://raw.github.com/rug-police/NFT/main/Officer_nft_RUGP.gif"
 }
