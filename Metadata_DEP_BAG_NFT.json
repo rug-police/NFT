@@ -1,0 +1,23 @@
+{
+    "description": "The RUGP Developer NFT shows that the wallet owner is involved in the development of RUGP products. It proudly adds to your wallet and gives you the right to earn income from the project's monetization.",
+    "name": "POLICE DEPARTMENT",
+    "attributes": [
+        {
+            "trait_type": "Star material",
+            "value": "Platinum"
+        },
+        {
+            "trait_type": "Rank",
+            "value": "Developer"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "VIP chat",
+            "value": "Yes"
+        }
+    ],
+    "image": "https://raw.github.com/RUGPOLICE/NFT/main/dev_nft-ezgif.com-video-to-gif-converter.gif"
+}
